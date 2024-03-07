@@ -1,5 +1,5 @@
 {
-  "name": "jsonenv-cli",
+  "name": "@worplo/jsonenv",
   "version": "1.0.0",
   "description": "Parse environment variable from json",
   "main": "index.js",
