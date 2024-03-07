@@ -1,0 +1,16 @@
+{
+  "name": "jsonenv",
+  "version": "1.0.0",
+  "description": "Parse environment variable from json",
+  "main": "index.js",
+  "repository": "https://github.com/Worplo/jsonenv-cli",
+  "author": "Team Worplo",
+  "license": "MIT",
+  "bin": {
+    "jsonenv": "./cli.js"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "minimist": "^1.2.8"
+  }
+}
