@@ -1,5 +1,5 @@
 {
-  "name": "jsonenv",
+  "name": "json-env",
   "version": "1.0.0",
   "description": "Parse environment variable from json",
   "main": "index.js",
