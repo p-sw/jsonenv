@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Parse environment variable from json",
   "main": "index.js",
-  "repository": "https://github.com/Worplo/jsonenv-cli",
+  "repository": "https://github.com/Worplo/jsonenv",
   "author": "Team Worplo",
   "license": "MIT",
   "bin": {
